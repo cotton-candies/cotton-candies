@@ -31,6 +31,6 @@ basic dni + proshippers + weird ppl no thx
 
 <br><br>
 
-<img src="https://media.tenor.com/oETQNi2kds0AAAAM/illit-wonhee.gif" width="90"/>
+<img src="https://media.tenor.com/oETQNi2kds0AAAAM/illit-wonhee.gif" height="120"/>
 
 </div>
