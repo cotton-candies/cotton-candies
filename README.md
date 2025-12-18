@@ -13,9 +13,10 @@
 
 <br>
 
-<a href="https://cottoncandies.atabook.org/">
-  <img src="https://img.shields.io/badge/ATABOOK-ffc1e3?style=for-the-badge&logoColor=white">
+<a href="https://cottoncandies.atabook.org">
+  <img src="https://img.shields.io/badge/🍬%20ATABOOK-ffb7d5?style=for-the-badge&logoColor=white">
 </a>
+
 
 <br><br>
 
