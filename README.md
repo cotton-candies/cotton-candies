@@ -13,8 +13,8 @@
 
 <br>
 
-<a href="[https://your-link](https://cottoncandies.atabook.org/)">
-  <img src="https://img.shields.io/badge/atabook-aadfff?style=for-the-badge&logo=book&logoColor=white">
+<a href="https://cottoncandies.atabook.org/">
+  <img src="https://img.shields.io/badge/ATABOOK-ffc1e3?style=for-the-badge&logoColor=white">
 </a>
 
 <br><br>
@@ -25,7 +25,7 @@
 
 <br><br>
 
-🩵 **dni**
+ **dni**
 <br>
 basic dni + proshippers + weird ppl no thx
 
